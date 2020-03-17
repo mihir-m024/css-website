@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+hr {
+  border: dotted #355c7d 6PX;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+h1 {
+  color: #f67280;
+  font-size: 5.562rem;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+h2 {
+  color: #f67280;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.7rem;
+  padding-bottom: 10px;
+}
+
+p {
+  line-height: 2;
+
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #a5dee5;
+}
+
+h3 {
+  color: #f67280;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #ffcfdf;
+  position: relative;
+  padding-top: 100px;
+}
+
+.codlogo {
+  height: 25%;
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.mountain {
+
+}
+
+.copyright {
+  color: #311d3f;
+  font-size: 0.75rem;
+}
+
+.chesslogo {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #f67280;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.classname {
+	background-color:#522546;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	border:1px solid #522546;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Montserrat;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #6c5b7b;
+}.classname:hover {
+	background-color:#e23e57;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
